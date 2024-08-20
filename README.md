@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia em transiçã
 
 ## 📊 Linguagens que Mais Utilizo
 
-![Linguagens](https://github.com/cerdeirajr)
+![Linguagens](cerdeirajr)
 
 ## 📫 Entre em Contato
 
