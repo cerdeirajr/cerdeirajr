@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia em transiçã
 
 ## 📊 Linguagens que Mais Utilizo
 
-![Linguagens]([cerdeirajr](https://github-readme-stats.vercel.app/api/top-langs/?username=cerdeirajr&layout=compact&hide=html&theme=tokyonight))
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cerdeirajr&layout=compact&hide=html&theme=tokyonight)
 
 ## 📫 Entre em Contato
 
