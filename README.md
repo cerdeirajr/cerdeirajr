@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia em transiçã
 
 ## 📊 Linguagens que Mais Utilizo
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&hide=html&theme=tokyonight)
+![Linguagens](https://github.com/cerdeirajr)
 
 ## 📫 Entre em Contato
 
@@ -29,6 +29,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia em transiçã
 Obrigado por visitar meu perfil! Vamos construir o futuro da tecnologia juntos!
 
 ---
-
-> *Nota:* Substitua `seu-username` no link do gráfico de linguagens pelo seu nome de usuário no GitHub, e atualize o LinkedIn e o e-mail com suas informações reais.
 
